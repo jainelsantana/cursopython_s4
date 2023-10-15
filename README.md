@@ -23,3 +23,5 @@ Aula 8 - Higher Order Functions
 Aula 9 - Closure e funções que retornam outras funções
 
 Aula 10 - Exercícios  
+
+Aula 11 - Dicionários em Python (tipo dict)
