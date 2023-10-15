@@ -17,3 +17,9 @@ Aula 5 - Retormp de valores das funções (return)
 Aula 6 - args -  Argumentos não nomeados
 
 Aula 7 - Exercícios
+
+Aula 8 - Higher Order Functions
+
+Aula 9 - Closure e funções que retornam outras funções
+
+Aula 10 - Exercícios  
