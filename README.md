@@ -25,3 +25,5 @@ Aula 9 - Closure e funções que retornam outras funções
 Aula 10 - Exercícios  
 
 Aula 11 - Dicionários em Python (tipo dict)
+
+Auila 12 - Manipulando chaves e valores em dicionários
