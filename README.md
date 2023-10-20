@@ -26,4 +26,14 @@ Aula 10 - Exercícios
 
 Aula 11 - Dicionários em Python (tipo dict)
 
-Auila 12 - Manipulando chaves e valores em dicionários
+Aula 12 - Manipulando chaves e valores em dicionários
+
+Aula 13 -  Métodos úteis dos dicionários em Python
+
+Aula 14 - Shallow Copy vs Deep Copy em dados mutáveis Python part 1
+
+Aula 15 - part 2
+
+Aula 16 - EX
+
+Aula 17 - set
