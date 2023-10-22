@@ -37,3 +37,7 @@ Aula 15 - part 2
 Aula 16 - EX
 
 Aula 17 - set
+
+Aula 18 - set
+
+Aula 19 - ex
