@@ -41,3 +41,7 @@ Aula 17 - set
 Aula 18 - set
 
 Aula 19 - ex
+
+Aula 20 - Lambda funções anônimas que contém apenas uma linha
+
+Aula 22 - **kwargs
