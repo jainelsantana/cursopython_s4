@@ -45,3 +45,5 @@ Aula 19 - ex
 Aula 20 - Lambda funções anônimas que contém apenas uma linha
 
 Aula 22 - **kwargs
+
+Aula 23 - List comprehension, mapeamento, filtro
