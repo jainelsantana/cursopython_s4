@@ -47,3 +47,7 @@ Aula 20 - Lambda funções anônimas que contém apenas uma linha
 Aula 22 - **kwargs
 
 Aula 23 - List comprehension, mapeamento, filtro
+
+Aula 24 - List comprehension For
+
+Aula 25 - Dictionary Comprehension e Set Comprehension
