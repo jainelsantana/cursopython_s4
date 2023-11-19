@@ -55,3 +55,5 @@ Aula 25 - Dictionary Comprehension e Set Comprehension
 Aula 26 - isinstace - para saber se objeto é de determinado tipo
 
 Aula 27 - dir, hasattr e getattr em Python
+
+Aula 29 - Generator expression, Iterables e Iterators em Python
