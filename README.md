@@ -57,3 +57,5 @@ Aula 26 - isinstace - para saber se objeto é de determinado tipo
 Aula 27 - dir, hasattr e getattr em Python
 
 Aula 29 - Generator expression, Iterables e Iterators em Python
+
+Aula 30 - Introdução às Generator functions em Python
