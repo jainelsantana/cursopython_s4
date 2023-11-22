@@ -59,3 +59,9 @@ Aula 27 - dir, hasattr e getattr em Python
 Aula 29 - Generator expression, Iterables e Iterators em Python
 
 Aula 30 - Introdução às Generator functions em Python
+
+Aula 31 - Yield from
+
+Aula 32 - Try, except, else e finally part 1 e 2
+
+Aula 33 - Try, except, else e finally part 3
