@@ -65,3 +65,5 @@ Aula 31 - Yield from
 Aula 32 - Try, except, else e finally part 1 e 2
 
 Aula 33 - Try, except, else e finally part 3
+
+Aula 34 - raise - lançando exceções (erros)
