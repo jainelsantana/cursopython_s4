@@ -69,3 +69,5 @@ Aula 33 - Try, except, else e finally part 3
 Aula 34 - raise - lançando exceções (erros)
 
 Aula 35 - Módulos - import, from, as e *
+
+Aula 36 - Modularização - Entendendo os seus próprios módulos e sys.path
