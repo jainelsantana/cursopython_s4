@@ -71,3 +71,5 @@ Aula 34 - raise - lançando exceções (erros)
 Aula 35 - Módulos - import, from, as e *
 
 Aula 36 - Modularização - Entendendo os seus próprios módulos e sys.path
+
+Aula 37 - Recarregando modulo, importlib e singleton
