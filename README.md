@@ -73,3 +73,5 @@ Aula 35 - Módulos - import, from, as e *
 Aula 36 - Modularização - Entendendo os seus próprios módulos e sys.path
 
 Aula 37 - Recarregando modulo, importlib e singleton
+
+Aula 38 -  Introdução aos packages (pacotes) em Python
