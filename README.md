@@ -75,3 +75,14 @@ Aula 36 - Modularização - Entendendo os seus próprios módulos e sys.path
 Aula 37 - Recarregando modulo, importlib e singleton
 
 Aula 38 -  Introdução aos packages (pacotes) em Python
+
+Aula 40 - Modulos, init, ex.
+#Descrição do excercio 
+    Esse código tem uma lista de produtos onde é feito o ajuste em 10%,  em seguida gera uma nova lista com novos produtos utilizando a deep copy e dicionario:
+
+    # Cria uma nova lista de produtos com preços atualizados
+novos_produtos = [
+    {**p, 'preco': round(p['preco'] * 1.1, 2)} 
+    for p in copy.deepcopy(produtos)
+]
+
