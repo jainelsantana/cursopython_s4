@@ -86,3 +86,5 @@ novos_produtos = [
     for p in copy.deepcopy(produtos)
 ]
 
+Aula - 41 - Exercício - Adiando execução de funções
+
