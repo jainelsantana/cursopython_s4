@@ -88,3 +88,5 @@ novos_produtos = [
 
 Aula - 41 - Exercício - Adiando execução de funções
 
+Aula - 42 -  Variável Livre
+
