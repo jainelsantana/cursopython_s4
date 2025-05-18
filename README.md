@@ -90,3 +90,4 @@ Aula - 41 - Exercício - Adiando execução de funções
 
 Aula - 42 -  Variável Livre
 
+Aula - 43 - Funções decoradoras 
