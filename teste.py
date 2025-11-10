@@ -46,4 +46,4 @@ while True:
     for idx, produto in enumerate(produtos_copia_ordenados, start=1):
         print(f"{idx}. Nome: {produto['nome']}, Preço: {produto['preco']:.2f}")
 
-#validvsdcsd
+#validvsdcsdfyjgl 
