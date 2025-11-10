@@ -32,7 +32,7 @@ while True:
     novo_produto = {'nome': novo_item, 'preco': preco_novo}
     novos_produtos.append(novo_produto)
 
-    # Gerar novos produtos por cópia profunda
+    # Gerar novos produtos por cópia profundabb
     produtos_copia = copy.deepcopy(produtos)
 
     # Adicionar novo produto à cópia profunda
@@ -46,4 +46,4 @@ while True:
     for idx, produto in enumerate(produtos_copia_ordenados, start=1):
         print(f"{idx}. Nome: {produto['nome']}, Preço: {produto['preco']:.2f}")
 
-#valid
+#validvsdcsd
